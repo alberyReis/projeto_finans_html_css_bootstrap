@@ -9,7 +9,7 @@ Este site foi construído com HTML e CSS, utilizando técnicas modernas de desig
 
 
 
-Site me formato large:
+Site em formato large:
 
 
 
@@ -19,7 +19,7 @@ Site me formato large:
 
 
 
-Site me formato media:
+Site em formato media:
 
 
 
@@ -29,7 +29,7 @@ Site me formato media:
 
 
 
-Site me formato small:
+Site em formato small:
 
 
 
