@@ -9,32 +9,13 @@ Este site foi construído com HTML e CSS, utilizando técnicas modernas de desig
 
 
 
-Site em formato large:
+Site:
 
 
 
 
 ![](https://github.com/alberyReis/site_finans_html_css_bootstrap/blob/main/img_site/Finanslarge.png)
 
-
-
-
-Site em formato media:
-
-
-
-
-![](https://github.com/alberyReis/site_finans_html_css_bootstrap/blob/main/img_site/Finansmedia.png)
-
-
-
-
-Site em formato small:
-
-
-
-
-![](https://github.com/alberyReis/site_finans_html_css_bootstrap/blob/main/img_site/Finanssmall.png)
 
 
 
